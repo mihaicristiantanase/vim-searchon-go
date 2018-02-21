@@ -48,3 +48,14 @@ with vim-searchon-go, the process becomes:
 2. press \sg
 
 (where "\\" is the default leader key in vim).
+
+### How to install:
+
+Vundle<br/>
+`Plugin 'mihaicristiantanase/vim-searchon-go'`
+
+vim-plug<br/>
+`Plug 'mihaicristiantanase/vim-searchon-go'`
+
+Pathogen<br/>
+`git clone https://github.com/mihaicristiantanase/vim-searchon-go ~/.vim/bundle/vim-husk`
