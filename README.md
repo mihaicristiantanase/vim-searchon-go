@@ -6,7 +6,7 @@
 2. provides search on Google, Youtube;
 
 Mappings:
-```c
+```
 <leader>sgg -> Searchon Google Go (goes into command mode and waits for input)
 <leader>sgw -> Searchon Google Word under cursor
 <leader>sg  -> Searchon Google visually selected text
