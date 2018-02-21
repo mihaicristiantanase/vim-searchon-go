@@ -58,4 +58,4 @@ vim-plug<br/>
 `Plug 'mihaicristiantanase/vim-searchon-go'`
 
 Pathogen<br/>
-`git clone https://github.com/mihaicristiantanase/vim-searchon-go ~/.vim/bundle/vim-husk`
+`git clone https://github.com/mihaicristiantanase/vim-searchon-go ~/.vim/bundle/vim-searchon-go`
